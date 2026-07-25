@@ -1,0 +1,6 @@
+{
+  "name": "Caption AI",
+  "description": "AI-powered caption and hashtag generator for social media creators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
